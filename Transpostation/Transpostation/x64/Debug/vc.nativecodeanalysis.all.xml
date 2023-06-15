@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\sez5853\source\repos\Transpostation\Transpostation\</FILEPATH>
+      <FILENAME>Vehicle.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'CVehicle::m_engineCapacity' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>CVehicle::{ctor}</FUNCTION>
+    <DECORATED>??0CVehicle@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CVehicle::m_engineCapacity</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

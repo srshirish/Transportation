@@ -1,0 +1,9 @@
+﻿  Bike.cpp
+  Car.cpp
+  MenuDriven.cpp
+  Transpostation.cpp
+  Vehicle.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+  Transpostation.vcxproj -> C:\Users\sez5853\source\repos\Transpostation\x64\Debug\Transpostation.exe
+C:\Users\sez5853\source\repos\Transpostation\Transpostation\Vehicle.cpp(3): warning C26495: Variable 'CVehicle::m_engineCapacity' is uninitialized. Always initialize a member variable (type.6).
